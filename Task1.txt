@@ -1,0 +1,24 @@
+Your task:
+
+Create a script that reads an input text file and creates a text file displaying the number of words in the input file that begin with each letter of the alphabet.
+
+Sample input: 
+	$ python myscript.py rumpelstiltskin.txt
+
+Returned file ex:
+	myscript_rumpelstiltskin.txt
+
+	a 100
+	b 0
+	c 100
+	d 100
+	.
+	.
+	.
+	z 100
+
+^ these numbers are fake lol I haven't written this script yet
+
+#Some pointers for this test
+https://docs.python.org/2/tutorial/datastructures.html 
+https://docs.python.org/2/tutorial/inputoutput.html (section 7.2 and onwards)
